@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HIOKI_SAKURA.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MqttBroker" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.13.29.11</Value>
+    </Setting>
+    <Setting Name="MqttPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1883</Value>
+    </Setting>
+    <Setting Name="MqttUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gustest</Value>
+    </Setting>
+    <Setting Name="MqttPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gus24837296</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

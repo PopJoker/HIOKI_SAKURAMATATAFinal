@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|c:\\users\\g11407007\\desktop\\pop\\hioki_sakuramatatafinal\\hioki_sakura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|solutionrelative:hioki_sakura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HIOKI_SAKURA||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\hioki_sakura\\mqttpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|solutionrelative:hioki_sakura\\mqttpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 512,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HIOKI_SAKURA",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\HIOKI_SAKURA\\HIOKI_SAKURA.csproj",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\HIOKI_SAKURA.csproj",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\HIOKI_SAKURA\\HIOKI_SAKURA.csproj",
+              "RelativeToolTip": "HIOKI_SAKURA\\HIOKI_SAKURA.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T06:50:12.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MqttPublisher.cs",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\HIOKI_SAKURA\\MqttPublisher.cs",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\MqttPublisher.cs",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\HIOKI_SAKURA\\MqttPublisher.cs",
+              "RelativeToolTip": "HIOKI_SAKURA\\MqttPublisher.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T06:39:57.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\HIOKI_SAKURA\\Form1.cs",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\Form1.cs",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\pop\\HIOKI_SAKURAMATATAFinal\\HIOKI_SAKURA\\Form1.cs",
+              "RelativeToolTip": "HIOKI_SAKURA\\Form1.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAAwHMBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T08:04:51.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
