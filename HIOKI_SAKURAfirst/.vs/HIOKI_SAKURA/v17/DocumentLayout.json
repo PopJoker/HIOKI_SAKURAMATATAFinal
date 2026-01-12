@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|c:\\users\\g11407007\\desktop\\hioki_sakura\\hioki_sakura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|solutionrelative:hioki_sakura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\hioki_sakura\\hioki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|solutionrelative:hioki_sakura\\hioki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\hioki_sakura\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|solutionrelative:hioki_sakura\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\hioki_sakura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECC2938-A863-4A29-ACAC-CC58E684AF9E}|HIOKI_SAKURA\\HIOKI_SAKURA.csproj|solutionrelative:hioki_sakura\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 512,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HIOKI.cs",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\HIOKI.cs",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\HIOKI.cs",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\HIOKI.cs",
+              "RelativeToolTip": "HIOKI_SAKURA\\HIOKI.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAAJsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:35:22.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\Form1.cs",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\Form1.cs",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\Form1.cs",
+              "RelativeToolTip": "HIOKI_SAKURA\\Form1.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAawDUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:21:44.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\Form1.Designer.cs",
+              "RelativeToolTip": "HIOKI_SAKURA\\Form1.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:20:39.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\Form1.cs",
+              "RelativeDocumentMoniker": "HIOKI_SAKURA\\Form1.cs",
+              "ToolTip": "C:\\Users\\G11407007\\Desktop\\HIOKI_SAKURA\\HIOKI_SAKURA\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "HIOKI_SAKURA\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:20:28.304Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
